@@ -130,12 +130,39 @@ FAQのデータを更新します。
 
 ![image](https://github.com/user-attachments/assets/3fa20ee4-456d-4ba2-8877-7b3264f94403)
 
+> [!note]
+> 通常のエージェントでは以下の操作は不要ですべてのナレッジを対象とした検索を行いますが、本ソリューション内に含まれているエージェントはファイルのナレッジを選択する必要がありますので、このようなナレッジを更新した際には会話の強化のトピックを選択します。
+>
+> ![image](https://github.com/user-attachments/assets/043f3427-6c7c-42ff-93c0-d21d77929504)
+>
+> 以前選択されていたファイルが削除されているのでエラーが発生しています。
+>
+> ![image](https://github.com/user-attachments/assets/4810ee18-4806-4892-ada3-d01c58c448f3)
+>
+> チェックするとエラーは消えます。
+>
+> 保存して終了します。これでトピックにナレッジを関連付けることができました。
+>
+> ![image](https://github.com/user-attachments/assets/7e5293b7-1ea1-4e72-8d43-04b00e262bad)
+
+
 自動的にFAQから以下のような情報を出力して連携します。
 
 ![image](https://github.com/user-attachments/assets/99e4a89a-ba16-4f19-b286-0a9086f8a6c0)
 
 >[!Note]
 >ファイルアップロードのインデックスが完了するには時間を要します。しばらく待ってからエージェントへの問い合わせを行いようにしてください。
+
+
+#### テスト実行
+
+質問をしてみると、正しくFAQから回答が得られました。
+
+![image](https://github.com/user-attachments/assets/9c2c1d0d-b5a0-4e42-9ade-dbdf815c07cd)
+
+引用も確認してみます。テーブル形式でインデックスが構成されていることがわかります。
+
+![image](https://github.com/user-attachments/assets/503a5947-b2d2-4ffc-9de1-d350c73e69cc)
 
 以上、ご参考になれば幸いです。
 

@@ -1,6 +1,9 @@
 # FAQAgentSolution
 AIによる FAQの生成、問い合わせ受付とAIによる回答案の作成、CSAT評価、多言語対応、作成したFAQのDataverse のファイルアップロードへの追加等の機能を提供する、FAQ管理とエージェントでのナレッジの最適化サイクルを回す包括的なソリューションです。
 
+> [!Note]
+> [ギークフジワラのX](https://x.com/geekfujiwara/status/1908231134816903362)まで是非感想・コメントをお寄せください！
+
 ## ソリューションの概要
 以下の製品を組み合わせて、Power Platform のみで作成しています、そのためソリューションをインポートするだけで利用できます。
 ![image](https://github.com/user-attachments/assets/fa7b1ea1-c3ad-45ca-9977-75f95f62dced)

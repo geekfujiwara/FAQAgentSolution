@@ -2,16 +2,56 @@
 AIによる FAQの生成、問い合わせ受付とAIによる回答案の作成、CSAT評価、多言語対応、作成したFAQのDataverse のファイルアップロードへの追加等の機能を提供する、FAQ管理とエージェントでのナレッジの最適化サイクルを回す包括的なソリューションです。
 
 ## ソリューションの概要
+以下の製品を組み合わせて、Power Platform のみで作成しています、そのためソリューションをインポートするだけで利用できます。
 ![image](https://github.com/user-attachments/assets/fa7b1ea1-c3ad-45ca-9977-75f95f62dced)
 
+主な動きを確認できる動画があります。
+
+https://github.com/user-attachments/assets/a7ac2d31-c479-4415-959c-ee4e7e11f26a
 
 ## ソリューションの仕組み
 
-### 機能
+### FAQの自動生成
+ファイルやテキストから自動的にFAQを作成します。
 
-### 機能
+![image](https://github.com/user-attachments/assets/b8cdce22-3c74-4b91-b307-05689eaab30b)
 
-### 
+### CSAT評価の送信
+満足度評価を収集します。
+
+![image](https://github.com/user-attachments/assets/516cfabd-04a7-445c-a4c0-09fe1bf66cab)
+
+収集した結果は分析タブから利用できます。
+
+![image](https://github.com/user-attachments/assets/9f287a99-c9bc-479f-a53f-66e9a8cb79a4)
+
+また、別の私のソリューションである [Copilot 改善アプリ](https://github.com/geekfujiwara/CopilotImprove)からも確認できます。
+
+![image](https://github.com/user-attachments/assets/b490c624-0476-4620-8d7a-1927be10bc62)
+
+
+
+### エージェントの多言語対応
+エージェントは英語にも対応させています。テスト画面から言語を切り替えると試すことができます。
+
+![image](https://github.com/user-attachments/assets/4468b6d4-954a-45fd-9585-2c653663861c)
+
+
+### 問い合わせ起票
+解決に至らなかった場合、問い合わせを起票することができます。問い合わせはFAQに追加されます。
+
+![image](https://github.com/user-attachments/assets/0026f455-bffb-4469-8c86-a9bd0cc8b944)
+
+### 回答案の作成
+質問の回答案はAIが作成してくれます。
+
+![image](https://github.com/user-attachments/assets/ebdf8d91-c5fe-449e-a681-8e71f9ca9299)
+
+### 質問者への Teams 通知
+回答が作成できたら、Teams で通知することができます。
+
+![image](https://github.com/user-attachments/assets/f1a6dba2-8c69-4bbe-8e2d-600b71084ffc)
+
 
 ## ソリューションの利用
 ### インポート方法

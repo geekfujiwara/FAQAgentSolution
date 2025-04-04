@@ -27,16 +27,8 @@ AIによる FAQの生成、問い合わせ受付とAIによる回答案の作成
 
 ![image](https://github.com/user-attachments/assets/451f8c91-dc7a-48d8-81ff-5f8ca08cbac3)
 
-マネージドソリューションをインポートした場合はマネージドのタブにソリューションがインポートされます。
 
-![image](https://github.com/user-attachments/assets/86d0a48b-add0-4383-bca9-15ea12b4d595)
-
-FAQ Agentを開きます。
-
-![image](https://github.com/user-attachments/assets/2b25e130-2ef0-441d-83c8-aa2285105a3b)
-
-
-インポートしたソリューションを開き、フローがオンになっていることを確認します。
+インポートしたソリューションFAQ Agentを開き、フローがオンになっていることを確認します。
 
 ![image](https://github.com/user-attachments/assets/df61832f-6a74-4cf5-b4b9-529ce8503397)
 

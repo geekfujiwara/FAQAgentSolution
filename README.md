@@ -5,8 +5,9 @@ AIによる FAQの生成、問い合わせ受付とAIによる回答案の作成
 > [ギークフジワラのX](https://x.com/geekfujiwara/status/1908231134816903362)まで是非感想・コメントをお寄せください！
 
 ## ソリューションの概要
-以下の製品を組み合わせて、Power Platform のみで作成しています、そのためソリューションをインポートするだけで利用できます。
-![image](https://github.com/user-attachments/assets/fa7b1ea1-c3ad-45ca-9977-75f95f62dced)
+以下の製品を組み合わせて、Power Platform のみで作成しています。そのためソリューションをインポートするだけで利用できます。
+
+![image](https://github.com/user-attachments/assets/66f89e8b-8634-4676-8ee0-23b6bd8cb416)
 
 主な動きを確認できる動画があります。
 
@@ -19,8 +20,18 @@ https://github.com/user-attachments/assets/a7ac2d31-c479-4415-959c-ee4e7e11f26a
 
 ![image](https://github.com/user-attachments/assets/b8cdce22-3c74-4b91-b307-05689eaab30b)
 
-### CSAT評価の送信
+
+
+https://github.com/user-attachments/assets/edd8fc7f-9cb9-4f41-894e-6fa59737b743
+
+
+
+### 社内ナレッジを優先し、回答がなかった場合にインターネット検索を行い回答
 満足度評価を収集します。
+
+https://github.com/user-attachments/assets/ad7623df-5949-4865-8457-4460fe008941
+
+### CSAT評価の送信
 
 ![image](https://github.com/user-attachments/assets/516cfabd-04a7-445c-a4c0-09fe1bf66cab)
 
@@ -28,22 +39,16 @@ https://github.com/user-attachments/assets/a7ac2d31-c479-4415-959c-ee4e7e11f26a
 
 ![image](https://github.com/user-attachments/assets/9f287a99-c9bc-479f-a53f-66e9a8cb79a4)
 
-また、別の私のソリューションである [Copilot 改善アプリ](https://github.com/geekfujiwara/CopilotImprove)からも確認できます。
-
-![image](https://github.com/user-attachments/assets/b490c624-0476-4620-8d7a-1927be10bc62)
-
-
-
-### エージェントの多言語対応
-エージェントは英語にも対応させています。テスト画面から言語を切り替えると試すことができます。
-
-![image](https://github.com/user-attachments/assets/4468b6d4-954a-45fd-9585-2c653663861c)
 
 
 ### 問い合わせ起票
 解決に至らなかった場合、問い合わせを起票することができます。問い合わせはFAQに追加されます。
 
 ![image](https://github.com/user-attachments/assets/0026f455-bffb-4469-8c86-a9bd0cc8b944)
+
+
+https://github.com/user-attachments/assets/472ff7f9-3717-41b9-8406-0fff8aec60f8
+
 
 ### 回答案の作成
 質問の回答案はAIが作成してくれます。
@@ -55,6 +60,12 @@ https://github.com/user-attachments/assets/a7ac2d31-c479-4415-959c-ee4e7e11f26a
 
 ![image](https://github.com/user-attachments/assets/f1a6dba2-8c69-4bbe-8e2d-600b71084ffc)
 
+### エージェントの多言語対応
+エージェントは英語にも対応させています。テスト画面から言語を切り替えると試すことができます。
+
+![image](https://github.com/user-attachments/assets/4468b6d4-954a-45fd-9585-2c653663861c)
+
+https://github.com/user-attachments/assets/77a4d28a-ccd6-4f5c-accf-dd5ff7fd652c
 
 ## ソリューションの利用
 ### インポート方法

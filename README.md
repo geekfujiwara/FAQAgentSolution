@@ -97,7 +97,8 @@ https://github.com/user-attachments/assets/77a4d28a-ccd6-4f5c-accf-dd5ff7fd652c
 
 ソリューションは主にモデル駆動型アプリのFAQ管理アプリと、エージェントの2つで構成されています。
 
-![image](https://github.com/user-attachments/assets/798fb153-fb87-49dc-b543-9e6c47d35144)
+![image](https://github.com/user-attachments/assets/3c4a5d65-a6a7-4d34-96cf-222b7546190e)
+
 
 #### FAQの生成
 まずは元となるナレッジを作成します。そのFAQはAIを利用して生成します。
@@ -190,10 +191,6 @@ FAQのデータを更新します。
 > 保存して終了します。これでトピックにナレッジを関連付けることができました。
 >
 > ![image](https://github.com/user-attachments/assets/7e5293b7-1ea1-4e72-8d43-04b00e262bad)
-
-
-
-
 
 
 #### テスト実行

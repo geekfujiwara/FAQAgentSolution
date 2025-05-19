@@ -70,7 +70,7 @@ https://github.com/user-attachments/assets/77a4d28a-ccd6-4f5c-accf-dd5ff7fd652c
 ## ソリューションの利用
 ### インポート方法
 
-[最新のソリューションをダウンロード](https://github.com/geekfujiwara/FAQAgentSolution/releases/tag/FAQAgent)します。
+[最新のソリューションをダウンロード](https://github.com/geekfujiwara/FAQAgentSolution/releases/)します。
 
 ダウンロードしたソリューションをソリューションからインポートします。
 
